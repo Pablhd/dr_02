@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sun Nov 19 16:59:41 2023
+[*]
+[dumpfile] "/home/thk/DR/praktikum/p2/p2vorgaben/waveform.ghw"
+[dumpfile_mtime] "Sun Nov 19 16:59:14 2023"
+[dumpfile_size] 14927
+[savefile] "/home/thk/DR/praktikum/p2/p2vorgaben/gtkwave_config.gtkw"
+[timestart] 0
+[size] 1529 542
+[pos] 13 52
+*-30.860323 9649000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.prak2zaehler_tb.
+[treeopen] top.prak2zaehler_tb.dut.
+[sst_width] 233
+[signals_width] 220
+[sst_expanded] 1
+[sst_vpaned_height] 214
+@28
+top.prak2zaehler_tb.async_reset
+top.prak2zaehler_tb.clk
+@29
+#{top.prak2zaehler_tb.modus[1:0]} top.prak2zaehler_tb.modus[1] top.prak2zaehler_tb.modus[0]
+@24
+#{top.prak2zaehler_tb.count[7:0]} top.prak2zaehler_tb.count[7] top.prak2zaehler_tb.count[6] top.prak2zaehler_tb.count[5] top.prak2zaehler_tb.count[4] top.prak2zaehler_tb.count[3] top.prak2zaehler_tb.count[2] top.prak2zaehler_tb.count[1] top.prak2zaehler_tb.count[0]
+@22
+#{top.prak2zaehler_tb.count[7:0]} top.prak2zaehler_tb.count[7] top.prak2zaehler_tb.count[6] top.prak2zaehler_tb.count[5] top.prak2zaehler_tb.count[4] top.prak2zaehler_tb.count[3] top.prak2zaehler_tb.count[2] top.prak2zaehler_tb.count[1] top.prak2zaehler_tb.count[0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,30 @@
+# 50 MHz Taktquelle
+set_io clk_50mhz 52
+
+# Taster
+set_io SW4      128
+set_io SW5      129
+
+# Schiebeschalter
+set_io SW6      130
+set_io SW7      134
+
+# LEDs
+set_io leds[0] 112
+set_io leds[1] 113
+set_io leds[2] 114
+set_io leds[3] 115
+set_io leds[4] 116
+set_io leds[5] 117
+set_io leds[6] 118
+set_io leds[7] 119
+
+# LED Dispaly an PMOD1
+set_io pmod1[0] 136
+set_io pmod1[1] 144
+set_io pmod1[2] 138
+set_io pmod1[3] 137
+set_io pmod1[4] 139
+set_io pmod1[5] 141
+set_io pmod1[6] 143
+set_io pmod1[7] 142
